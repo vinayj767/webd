@@ -1,0 +1,16 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    background-color: aqua;
+  }
+  .h1{
+    text-align: center;
+  }
+  .right{
+  display:block;
+  color:blue;  
+  text-align: center;
+  }
+  

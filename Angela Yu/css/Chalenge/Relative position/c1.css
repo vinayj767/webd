@@ -1,0 +1,25 @@
+.Firstbox{
+    background-color: blue ;
+    width: 200px;
+    height: 200px;
+    border: solid 10px;
+
+}
+.Second{
+    background-color: yellow ;
+    width: 200px;
+    height: 200px;
+    border: solid 10px;
+    position: relative;
+    bottom: 220px;
+    left: 221px;
+}
+.Third{
+    background-color: Red ;
+    width: 200px;
+    height: 200px;
+    border: solid 10px;
+    position: relative;
+    bottom: 440px;
+    left: 442px;
+}

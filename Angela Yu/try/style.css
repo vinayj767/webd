@@ -1,0 +1,23 @@
+.Firstbox{
+    background-color: rgb(58, 174, 240);
+    width: 200px;
+    height: 200px;
+    border: solid 10px;
+    padding: 20px;
+}
+.Second{
+    background-color: Red;
+    border: solid 10px;
+    width: 200px;
+    height: 200px;
+    margin-left: 258px;
+}
+.Third{
+    background-color:yellow;
+    border-top: black;
+    border: 10px;
+    width: 200px;
+    height: 200px;
+    margin-left: 477px;
+    border: solid 10px;
+}

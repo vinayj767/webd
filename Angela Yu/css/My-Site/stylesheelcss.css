@@ -1,0 +1,88 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color: #40514E;
+}
+h1{
+    margin: 0;
+    margin-top: 50px;
+    font-size: 562%;
+    font-family: 'Sacramento', cursive;
+    color: #66BFBF;
+    line-height: 1;
+}
+h2{
+    font-family: 'Merriweather', serif;
+    font-size: 1.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+}
+h3{
+    font-family: 'Merriweather', serif;
+    color: #11999E;
+}
+.mainbox{
+    background-color:#E4F9F5 ;
+    position: relative;
+    padding-top: 100px;
+}
+.middle{
+    background-color: white;
+}
+.cloud1{
+    position: absolute;
+    right: 350px;
+    top: 8px;  
+}
+.cloud2{
+    position: absolute ;
+    left: 300px;
+    top: 250px;
+}
+.Skills{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.C{
+    float: left;
+}
+hr{
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    width: 4%;
+}
+.btn {
+    background: #9ed8ff;
+    background-image: -webkit-linear-gradient(top, #9ed8ff, #1485cc);
+    background-image: -moz-linear-gradient(top, #9ed8ff, #1485cc);
+    background-image: -ms-linear-gradient(top, #9ed8ff, #1485cc);
+    background-image: -o-linear-gradient(top, #9ed8ff, #1485cc);
+    background-image: linear-gradient(to bottom, #9ed8ff, #1485cc);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  }
+.Last{
+    background-color: #b2f4f6;
+}
+a:hover{
+    color: #EAF6F6;
+}
